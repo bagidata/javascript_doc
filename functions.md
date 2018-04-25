@@ -16,4 +16,6 @@ Anda HARUS menambahkan parentheses (tanda kurung) disekitar fungsi untuk menunju
     })();
 
 
+> Fungsi di atas sebenarnya adalah fungsi self-invoking anonim (fungsi tanpa nama)
+
 Sumber : https://www.w3schools.com/js/js_function_definition.asp
