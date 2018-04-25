@@ -12,8 +12,8 @@ Anda tidak bisa self-invoke (memanggil sendiri) fungsi deklarasi.
 Anda HARUS menambahkan parentheses (tanda kurung) disekitar fungsi untuk menunjukan bahwa itu adalah fungsi ekspresi :
 
     (function () {
-        var x = "Hello!!";      // I will invoke myself
-    })();
+        var x = "Hello!!"; 
+    })(); // Tanda kurung dibagian akhir artinya fungsi akan dijalankan otomatis.
 
 
 > Fungsi di atas sebenarnya adalah fungsi self-invoking anonim (fungsi tanpa nama)
